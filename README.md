@@ -42,12 +42,15 @@ Make sure to download and extract the dataset into the appropriate folder as spe
 The notebook covers:
 - Introduction to Transfer Learning: A brief explanation of the concept and typical use cases.
 - Loading Pre-trained Models: How to load and configure models like ResNet, VGG, etc.
+  
 Customizing the Model:
 - Freezing and unfreezing layers.
 - Modifying output layers to match the number of classes in the new dataset.
+  
 Training and Evaluation:
 - Training the modified model.
 - Evaluating model performance using accuracy and loss metrics.
+  
 Result Visualization: (Optional)
 - Plotting sample predictions.
 - Analyzing model behavior visually.
